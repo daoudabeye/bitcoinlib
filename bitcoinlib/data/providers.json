@@ -427,5 +427,16 @@
     "priority": 10,
     "denominator": 100000000,
     "network_overrides": null
+  },
+  "ikawari": {
+    "provider": "ikawari",
+    "network": "testnet",
+    "client_class": "IkawariClient",
+    "provider_coin_id": "",
+    "url": "http://192.168.1.200:15001/",
+    "api_key": "",
+    "priority": 10,
+    "denominator": 100000000,
+    "network_overrides": null
   }
 }
